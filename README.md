@@ -1,5 +1,5 @@
 qs -p path/to/thisshit
-as of now just install: ttf-terminus-nerd jocat jq
+as of now just install: ttf-terminus-nerd socat jq
 
 thats bout it
 
